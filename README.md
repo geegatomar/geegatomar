@@ -7,5 +7,10 @@
 [<img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@shivangitomar1301)
 
 
+<br>
+
+[Women in Tech Opportunities](https://linktr.ee/shivangitomar)
+
+
 
  
